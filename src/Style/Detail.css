@@ -1,0 +1,15 @@
+.detail-wrapper {
+  margin: 5% 10%;
+}
+.detail-card {
+  display: flex;
+  border-radius: 20px;
+  padding: 30px 30px;
+  box-shadow: -3px 3px 20px -6px rgba(0, 0, 0, 0.73);
+  -webkit-box-shadow: -3px 3px 20px -6px rgba(0, 0, 0, 0.73);
+  -moz-box-shadow: -3px 3px 20px -6px rgba(0, 0, 0, 0.73);
+}
+.img-detail {
+  border-radius: 20px;
+  margin-right: 30px;
+}
